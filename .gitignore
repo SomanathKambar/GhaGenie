@@ -40,6 +40,10 @@ local.properties
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
+.idea/$PROJECT_FILE$
+.idea/codeStyles/Project.xml
+.idea/qaplug_profiles.xml
+.idea/runConfigurations.xml
 *.iml
 
 # OS-specific files

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_note_image_size">@dimen/_25sdp</dimen>
+    <dimen name="note_item_title_min_width">@dimen/_150sdp</dimen>
+    <dimen name="note_item_title_max_width">@dimen/_200sdp</dimen>
+    <dimen name="note_item_text_size">@dimen/_16ssp</dimen>
+</resources>
